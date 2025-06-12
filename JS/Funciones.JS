@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         message += `%0ATotal: $${total.toLocaleString()}%0A%0AMi nombre es: [TU_NOMBRE]%0AMi dirección es: [TU_DIRECCIÓN]`;
         
-        window.open(`https://wa.me/6691589033?text=${message}`, '_blank');
+        window.open(`https://wa.me/6694492207?text=${message}`, '_blank');
     });
     
     // ---------- LIGHTBOX IMÁGENES ----------
